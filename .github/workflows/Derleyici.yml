@@ -1,4 +1,4 @@
-name: CloudStream Derleyici
+name: CloudStream Derleyici. 
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.event_name }}-${{ github.ref }}
