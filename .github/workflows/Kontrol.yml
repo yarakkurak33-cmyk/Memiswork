@@ -57,7 +57,7 @@ jobs:
 
           git add -A
 
-          git commit --author="nikyokki <6808128+nikyokki@users.noreply.github.com>" \
+          git commit --author="UmayTrade <6808128+UmayTrade@users.noreply.github.com>" \
             -m "♻️ Domain Değişikliği" \
             -m "🔄 Otomatik domain güncellemeleri yapıldı."
           BRANCH="domain-degisikligi"
